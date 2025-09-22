@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Shafi Na Farko</title>
+</head>
+<body>
+  <h1>Assalamu Alaikum, ni Salees Aderm ne!</h1>
+  <p>Ina son zama Web Developer in sha Allah.</p>
+</body>
+</html>
+body {
+  background-color: lightblue;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: darkblue;
+}
+
+p {
+  color: green;
+}
+<link rel="stylesheet" href="style.css">
